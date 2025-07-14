@@ -1,0 +1,13 @@
+streamlit>=1.32.0
+sentence-transformers>=2.7.0
+PyMuPDF>=1.23.21
+transformers>=4.38.2
+accelerate>=0.27.2
+torch>=2.2.1
+safetensors>=0.4.2
+bitsandbytes>=0.42.0
+python-dotenv>=1.0.1
+numpy>=1.26.4
+huggingface-hub>=0.22.2
+tokenizers>=0.19.1
+autoawq>=0.1.8
